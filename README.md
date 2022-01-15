@@ -1,9 +1,35 @@
+Spark (Support Fork) - a tiny web framework for Java 8
+======================================================
+
 [![](https://img.shields.io/travis/perwendel/spark.svg)](https://travis-ci.org/perwendel/spark)
 [![](https://img.shields.io/github/license/perwendel/spark.svg)](./LICENSE)
 [![](https://img.shields.io/maven-central/v/com.sparkjava/spark-core.svg)](http://mvnrepository.com/artifact/com.sparkjava/spark-core)
 
-Spark - a tiny web framework for Java 8
-==============================================
+Support fork
+------------
+
+This fork exists only because it doesn't appear that perwendel is updating the
+original codebase for this project. This repository exists so that others can
+continue to use Spark with the latest security patches-- it's especially for
+those who are considering a migration to a different framework, but don't
+currently have the bandwidth to orchestrate such a thing. (To a lesser degree,
+it's also here for those of us that hold out hope that the original project
+will either go back active, with or without a new maintainer.)
+
+In the event that this fork gets a lot of attention, I might make it an actual
+hard fork instead of the maintenance fork that it is. But that's not the case
+right now-- consider it around for maintenance purposes only, without
+warranties of any sort.
+
+The documentation and the rest of this README are mostly intact from the
+original codebase. If I do decide to make this a hard fork, I'll of course
+update the docs and reinstitute continuous integration.
+
+For now, you should be able to add this maintenance fork as a dependency into
+your Maven or Gradle projects using by incorporating [JitPack](https://jitpack.io/#calebpower/spark).
+
+Overview
+--------
 
 **Spark 2.9.3 is out!!**  <a href="https://github.com/perwendel/spark/blob/master/changeset/2.9.3-changeset.md">Changeset</a> 
 ```xml
