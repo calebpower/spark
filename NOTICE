@@ -1,5 +1,5 @@
 ====
-   Copyright 2011-2015 Per Wendel
+   Copyright 2011-2015 Caleb L. Power
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -14,7 +14,11 @@
    limitations under the License.
 ====
 
-Questions about licensing should be directed to per.i.wendel@gmail.com.
+The original codebase is protected under copyright, was written in part by Per
+Wendel, and was released under the terms of the Apache License, Version 2.0
+(http://www.apache.org/licenses/LICENSE-2.0). Copyright 2011-2015 Per Wendel.
+Questions about licensing for the original codebase should be directed to
+per.i.wendel@gmail.com.
 
 Third Party Contributions:
 
